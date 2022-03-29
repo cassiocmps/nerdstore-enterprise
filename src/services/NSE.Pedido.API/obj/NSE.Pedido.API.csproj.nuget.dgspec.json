@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\NerdStoreEnterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj": {}
+    "D:\\repos\\nerdstore-enterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj": {}
   },
   "projects": {
-    "D:\\repos\\NerdStoreEnterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj": {
+    "D:\\repos\\nerdstore-enterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\NerdStoreEnterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj",
+        "projectUniqueName": "D:\\repos\\nerdstore-enterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj",
         "projectName": "NSE.Pedido.API",
-        "projectPath": "D:\\repos\\NerdStoreEnterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj",
+        "projectPath": "D:\\repos\\nerdstore-enterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj",
         "packagesPath": "C:\\Users\\cassio.campos\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\NerdStoreEnterprise\\src\\services\\NSE.Pedido.API\\obj\\",
+        "outputPath": "D:\\repos\\nerdstore-enterprise\\src\\services\\NSE.Pedido.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

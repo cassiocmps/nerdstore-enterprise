@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CmmCKwAqh5sgCO4uiwtmE7uMT2UFKUz7TCgT0h0CE76RFUgSr47ihYlwE3kBLsbxE0Q6y7PV/5vjwmgTzap6JQ==",
+  "dgSpecHash": "g3Q/jvUChCNNVrnxOQxWEptizRRenCjN1rekx0Mu4xOOlCYvovZCQj6V/nzaLw94OSWHHA76opb2Ebo5/7+ayQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+  "projectFilePath": "D:\\repos\\nerdstore-enterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cassio.campos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],
