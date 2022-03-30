@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uQjSB61V4jBDTs6RmnJS5+TqqfnkzuKopc7aY9rzeTihA3UlbrdY4TAQ6vvsR5bpKyWP0Nm0KqJpaZm196vFgA==",
+  "dgSpecHash": "O5NruLVN102jLh8Gs5dQ7b9cbgfg1x2SiZWLYTTbXqyekt8zzia8OFKIPhmi7ORTU5/LFO4+fPj+66zvOAu+pw==",
   "success": true,
-  "projectFilePath": "D:\\repos\\nerdstore-enterprise\\src\\services\\NSE.Pagamento\\NSE.Pagamento.csproj",
+  "projectFilePath": "C:\\Users\\Cassio Campos\\source\\repos\\cassiocmps\\nerdstore-enterprise\\src\\services\\NSE.Pagamento\\NSE.Pagamento.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cassio.campos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+    "C:\\Users\\Cassio Campos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],
   "logs": []
 }
