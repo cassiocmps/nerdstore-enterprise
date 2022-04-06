@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "txKJBOakBHdPEm3mzkc1j1+pZmyOuGZC72cQ4dBF/9k5dB3IiGo/y6O454gTeCEyPyRV/26mQmAh5MIhZXBFZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cassio Campos\\source\\repos\\cassiocmps\\nerdstore-enterprise\\src\\services\\NSE.Pagamentos.API\\NSE.Pagamentos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cassio Campos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,161 +1,93 @@
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.json
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.StaticWebAssets.xml
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.exe
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.deps.json
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.json
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.dev.json
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.AssemblyReference.cache
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfoInputs.cache
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfo.cs
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CoreCompileInputs.cache
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cs
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cache
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Identidade.API.StaticWebAssets.Manifest.cache
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Identidade.API.StaticWebAssets.xml
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.RazorTargetAssemblyInfo.cache
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CopyComplete
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\repos\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.json
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.StaticWebAssets.xml
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.exe
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.deps.json
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.json
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.dev.json
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.AssemblyReference.cache
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfoInputs.cache
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfo.cs
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CoreCompileInputs.cache
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cs
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cache
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Identidade.API.StaticWebAssets.Manifest.cache
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Identidade.API.StaticWebAssets.xml
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.RazorTargetAssemblyInfo.cache
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CopyComplete
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
-D:\repos\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.StaticWebAssets.xml
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.exe
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.deps.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.dev.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.AssemblyReference.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfoInputs.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfo.cs
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CoreCompileInputs.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Identidade.API.StaticWebAssets.Manifest.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Identidade.API.StaticWebAssets.xml
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\NSE.Identidade.API.styles.css
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.RazorTargetAssemblyInfo.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CopyComplete
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.StaticWebAssets.xml
@@ -165,6 +97,9 @@ C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.dev.json
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -203,6 +138,8 @@ C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -220,7 +157,11 @@ C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.AssemblyReference.cache
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.GeneratedMSBuildEditorConfig.editorconfig

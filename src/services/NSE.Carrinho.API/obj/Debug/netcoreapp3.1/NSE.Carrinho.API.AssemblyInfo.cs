@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("684b76af-1708-4de2-a06d-db788f636cb7")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("14093821-325c-4620-86a1-2b4a9d955c4f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NSE.Carrinho.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

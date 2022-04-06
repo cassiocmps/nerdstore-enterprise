@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("30323554-84bd-44fe-86d8-49e7df06e4f0")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("89b8bcc1-8571-40e2-a4e6-f8b761b60a58")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NSE.Catalogo.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

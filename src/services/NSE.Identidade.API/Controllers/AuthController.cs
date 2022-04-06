@@ -1,23 +1,22 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Options;
-using Microsoft.IdentityModel.JsonWebTokens;
-using Microsoft.IdentityModel.Tokens;
-using NSE.Identidade.API.Extensions;
-using NSE.Identidade.API.Models;
-using NSE.WebAPI.Core.Identidade;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-using JwtRegisteredClaimNames = Microsoft.IdentityModel.JsonWebTokens.JwtRegisteredClaimNames;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
+using NSE.Core.Messages.Integration;
+using NSE.Identidade.API.Models;
+using NSE.MessageBus;
+using NSE.WebAPI.Core.Controllers;
+using NSE.WebAPI.Core.Identidade;
 
 namespace NSE.Identidade.API.Controllers
 {
-    [ApiController] // decorando com esse atributos o swagger entende e mostra os schemas
     [Route("api/identidade")]
     public class AuthController : MainController
     {
@@ -25,13 +24,17 @@ namespace NSE.Identidade.API.Controllers
         private readonly UserManager<IdentityUser> _userManager;
         private readonly AppSettings _appSettings;
 
-        public AuthController(UserManager<IdentityUser> userManager, 
-                              SignInManager<IdentityUser> signInManager,
-                              IOptions<AppSettings> appSettings) // IOptions é usado para leitura de arquivos de configuração
+        private readonly IMessageBus _bus;
+
+        public AuthController(SignInManager<IdentityUser> signInManager, 
+                              UserManager<IdentityUser> userManager,
+                              IOptions<AppSettings> appSettings,
+                              IMessageBus bus)
         {
             _signInManager = signInManager;
             _userManager = userManager;
-            _appSettings = appSettings.Value; // incompatibilidade por tipos. passando o valor para resolver
+            _appSettings = appSettings.Value;
+            _bus = bus;
         }
 
         [HttpPost("nova-conta")]
@@ -50,18 +53,23 @@ namespace NSE.Identidade.API.Controllers
 
             if (result.Succeeded)
             {
-                // não estamos fazendo login, só gerando o token
-                // await _signInManager.SignInAsync(user, false);
+                var clienteResult = await RegistrarCliente(usuarioRegistro);
+
+                if (!clienteResult.ValidationResult.IsValid)
+                {
+                    await _userManager.DeleteAsync(user);
+                    return CustomResponse(clienteResult.ValidationResult);
+                }
+
                 return CustomResponse(await GerarJwt(usuarioRegistro.Email));
             }
-            
+
             foreach (var error in result.Errors)
             {
                 AdicionarErroProcessamento(error.Description);
             }
 
             return CustomResponse();
-
         }
 
         [HttpPost("autenticar")]
@@ -83,14 +91,12 @@ namespace NSE.Identidade.API.Controllers
                 return CustomResponse();
             }
 
-            AdicionarErroProcessamento("Usuário ou senha incorretos");
+            AdicionarErroProcessamento("Usuário ou Senha incorretos");
             return CustomResponse();
-
         }
 
         private async Task<UsuarioRespostaLogin> GerarJwt(string email)
         {
-            // metodo chamado apos login, email é garantido q existe 
             var user = await _userManager.FindByEmailAsync(email);
             var claims = await _userManager.GetClaimsAsync(user);
 
@@ -107,14 +113,13 @@ namespace NSE.Identidade.API.Controllers
             claims.Add(new Claim(JwtRegisteredClaimNames.Sub, user.Id));
             claims.Add(new Claim(JwtRegisteredClaimNames.Email, user.Email));
             claims.Add(new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()));
-            claims.Add(new Claim(JwtRegisteredClaimNames.Nbf, ToUnixEpochDate(DateTime.UtcNow).ToString())); // (quando vai expirar)
-            claims.Add(new Claim(JwtRegisteredClaimNames.Iat, ToUnixEpochDate(DateTime.UtcNow).ToString(), ClaimValueTypes.Integer64)); // issue at (quando foi emitido)
+            claims.Add(new Claim(JwtRegisteredClaimNames.Nbf, ToUnixEpochDate(DateTime.UtcNow).ToString()));
+            claims.Add(new Claim(JwtRegisteredClaimNames.Iat, ToUnixEpochDate(DateTime.UtcNow).ToString(), ClaimValueTypes.Integer64));
             foreach (var userRole in userRoles)
             {
                 claims.Add(new Claim("role", userRole));
             }
 
-            // colecao de claims com todas as geradas acima
             var identityClaims = new ClaimsIdentity();
             identityClaims.AddClaims(claims);
 
@@ -124,7 +129,6 @@ namespace NSE.Identidade.API.Controllers
         private string CodificarToken(ClaimsIdentity identityClaims)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
-            // para pegar o secret tem q injetar o appSettings no construtor, usando IOptions
             var key = Encoding.ASCII.GetBytes(_appSettings.Secret);
             var token = tokenHandler.CreateToken(new SecurityTokenDescriptor
             {
@@ -155,6 +159,23 @@ namespace NSE.Identidade.API.Controllers
 
         private static long ToUnixEpochDate(DateTime date)
             => (long)Math.Round((date.ToUniversalTime() - new DateTimeOffset(1970, 1, 1, 0, 0, 0, TimeSpan.Zero)).TotalSeconds);
+
+        private async Task<ResponseMessage> RegistrarCliente(UsuarioRegistro usuarioRegistro)
+        {
+            var usuario = await _userManager.FindByEmailAsync(usuarioRegistro.Email);
+
+            var usuarioRegistrado = new UsuarioRegistradoIntegrationEvent(
+                Guid.Parse(usuario.Id), usuarioRegistro.Nome, usuarioRegistro.Email, usuarioRegistro.Cpf);
+
+            try
+            {
+                return await _bus.RequestAsync<UsuarioRegistradoIntegrationEvent, ResponseMessage>(usuarioRegistrado);
+            }
+            catch
+            {
+                await _userManager.DeleteAsync(usuario);
+                throw;
+            }
+        }
     }
 }
-

@@ -16,12 +16,10 @@ namespace NSE.Catalogo.API.Data.Repository
             _context = context;
         }
 
-        // propriedade necessaria para 
         public IUnitOfWork UnitOfWork => _context;
 
         public async Task<IEnumerable<Produto>> ObterTodos()
         {
-            // AsNoTracking() melhora o desempenho
             return await _context.Produtos.AsNoTracking().ToListAsync();
         }
 

@@ -12,7 +12,6 @@ namespace NSE.WebAPI.Core.Identidade
         public static void AddJwtConfiguration(this IServiceCollection services,
             IConfiguration configuration)
         {
-            // GetSection("AppSettings") pega a informação onde eles está executando, uma vez que appsettings.json não existe nesse namespace
             var appSettingsSection = configuration.GetSection("AppSettings");
             services.Configure<AppSettings>(appSettingsSection);
 

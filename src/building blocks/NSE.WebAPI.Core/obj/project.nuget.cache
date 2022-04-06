@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LC6AO9gZtI1yXl2CBBUZEt2Rf8sGSkgRkU6wBboO9uyz6elDzoiy1OtKgp9i5gTBZg9T1rmcfThCpFaKAVO53A==",
+  "dgSpecHash": "3oSEwuCdVk6YkwMatLIDFCcIUp0FytvJYYcVz4EJJqxmteS1cm7ZLoAwJUjhjSQQmTVUPzHn/scbcNrcV6VvxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cassio Campos\\source\\repos\\cassiocmps\\nerdstore-enterprise\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Cassio Campos\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.3\\microsoft.aspnetcore.authentication.jwtbearer.3.1.3.nupkg.sha512",
+    "C:\\Users\\Cassio Campos\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Cassio Campos\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.4\\microsoft.aspnetcore.authentication.jwtbearer.3.1.4.nupkg.sha512",
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
@@ -18,6 +19,7 @@
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Cassio Campos\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\system.componentmodel.primitives\\4.3.0\\system.componentmodel.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
     "C:\\Users\\Cassio Campos\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",

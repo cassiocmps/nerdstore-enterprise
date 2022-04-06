@@ -1,0 +1,40 @@
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.exe
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.deps.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.runtimeconfig.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.runtimeconfig.dev.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.AssemblyInfoInputs.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.AssemblyInfo.cs
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.csproj.CoreCompileInputs.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pedidos.API.StaticWebAssets.Manifest.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pedidos.API.StaticWebAssets.xml
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\NSE.Pedidos.API.styles.css
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.RazorTargetAssemblyInfo.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.genruntimeconfig.cache
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.exe
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.deps.json
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.runtimeconfig.json
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.runtimeconfig.dev.json
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\bin\Debug\netcoreapp3.1\NSE.Pedidos.API.pdb
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.AssemblyInfoInputs.cache
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.AssemblyInfo.cs
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.csproj.CoreCompileInputs.cache
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pedidos.API.StaticWebAssets.Manifest.cache
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pedidos.API.StaticWebAssets.xml
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\NSE.Pedidos.API.styles.css
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.RazorTargetAssemblyInfo.cache
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.dll
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.pdb
+C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\services\NSE.Pedidos.API\obj\Debug\netcoreapp3.1\NSE.Pedidos.API.genruntimeconfig.cache

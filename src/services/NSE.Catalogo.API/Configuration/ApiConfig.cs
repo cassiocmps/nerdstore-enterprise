@@ -42,7 +42,6 @@ namespace NSE.Catalogo.API.Configuration
 
             app.UseCors("Total");
 
-            // importante ficar entre routing e endpoints
             app.UseAuthConfiguration();
 
             app.UseEndpoints(endpoints =>

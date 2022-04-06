@@ -1,17 +1,15 @@
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
-D:\repos\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\Cassio Campos\Desktop\04 - ASP.NET Core Enterprise Applications\Materiais\07 - Estrutura com BFF de Compras\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
-C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
 C:\Users\Cassio Campos\source\repos\cassiocmps\nerdstore-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs

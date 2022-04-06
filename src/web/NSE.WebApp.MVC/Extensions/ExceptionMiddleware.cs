@@ -25,18 +25,14 @@ namespace NSE.WebApp.MVC.Extensions
             {
                 HandleRequestExceptionAsync(httpContext, ex.StatusCode);
             }
-            // 403
             catch (ValidationApiException ex)
             {
                 HandleRequestExceptionAsync(httpContext, ex.StatusCode);
             }
-            // 401
             catch (ApiException ex)
             {
                 HandleRequestExceptionAsync(httpContext, ex.StatusCode);
             }
-
-            // circuit breaker do polly
             catch (BrokenCircuitException)
             {
                 HandleCircuitBreakerExceptionAsync(httpContext);
